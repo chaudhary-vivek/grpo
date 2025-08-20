@@ -1,0 +1,7 @@
+transformers==4.51.3
+torch==2.7.1
+pandas
+torchvision==0.22.1
+peft==0.15.2
+reasoning-gym==0.1.22
+rich==14.0.0
